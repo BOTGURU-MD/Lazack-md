@@ -1,10 +1,10 @@
-</p>
+BOT-GURU-MD </p>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="250" src="https://telegra.ph/file/1dc10a39146c80069a439.jpg"> 
     </p>
-<h1 align="center">    𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿
+<h1 align="center">   GURU-𝙈𝘿
 </h1>
 <p align="center"> 
     </p>
@@ -105,6 +105,6 @@ Deployments methods
 
 </br>
 
-***LAZACK MD MORE UPDATE COMMING SOON....***
+***BOTGURUMD MORE UPDATE COMMING SOON....***
 
 ***FIXING MORE***
